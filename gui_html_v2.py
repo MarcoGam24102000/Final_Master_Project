@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 12 11:03:49 2022
 
-@author: Rui Pinto
+@author: Marco Gameiro
 """ 
  
 
