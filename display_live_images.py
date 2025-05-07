@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 17 17:04:10 2023
 
-@author: Rui Pinto
+@author: Marco Gameiro
 """
 
 import time
